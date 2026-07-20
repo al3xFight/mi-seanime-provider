@@ -1,1 +1,12 @@
-
+{
+  "id": "tioanime-al3x",
+  "name": "TioAnime",
+  "version": "1.0.0",
+  "manifestURI": "https://raw.githubusercontent.com/al3xFight/mi-seanime-provider/main/manifest.json",
+  "language": "typescript",
+  "type": "onlinestream-provider",
+  "description": "Proveedor de streaming para TioAnime en Seanime.",
+  "author": "al3xFight",
+  "lang": "es",
+  "payloadURI": "https://raw.githubusercontent.com/al3xFight/mi-seanime-provider/main/index.ts"
+}
